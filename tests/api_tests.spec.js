@@ -3,7 +3,7 @@ const { test, expect } = require('@playwright/test');
 
 const statusCodes = require("../src/lib/variables/enum");
 
-const baseUrl = "https://restful-api.dev/";
+const baseUrl = "https://api.restful-api.dev/";
 let createdObjectId;
 
 test.describe('API Tests', () => {
