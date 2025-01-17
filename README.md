@@ -20,7 +20,7 @@ npm install
 To run the tests, execute the following command:
 npm test
 
-##To see the Report
+## To see the Report
 To see the report, execute the following code:
 npx playwright show-report
 
